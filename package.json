@@ -1,7 +1,7 @@
 {
-  "name": "primeiro_app_react",
+  "name": "lexmarx.github.io",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
