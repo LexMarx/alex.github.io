@@ -1,8 +1,8 @@
 {
-  "name": "alex.github.io",
+  "name": "lexmarx.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lexmarx.github.io/alex.github.io",
+  "homepage": "https://lexmarx.github.io/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

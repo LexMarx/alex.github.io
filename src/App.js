@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Alex Marquezini</h1>
         </header>
         <p className="App-intro">
-          <code> React é D++ </code>.
+          <code> React é D++. </code>
         </p>
       </div>
     );
